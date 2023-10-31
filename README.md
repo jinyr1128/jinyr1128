@@ -11,7 +11,7 @@
 
 - E-mail :
 
-- Velog :   <a href=“https://velog.io/@jinyr1128”>[![Velog](https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logoBlogger&logoColor=white)](https://velog.io/@username)
+- Velog :   <a href=“https://velog.io/@jinyr1128”>[![Velog](https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logoBlogger&logoColor=white)](https://velog.io/@jinyr1128)
   </a>
 
 - SNS :   <a href ="https://www.instagram.com/yulgiii_1128_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
