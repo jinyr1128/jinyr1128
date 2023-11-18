@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinyr1128&count_bg=%23FFFB00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com) </center>
 ---
 ## 🌠 Introduction
-**안녕하세요, 저는 진유록입니다. 느리더라도 한 걸음씩 나아가다보면 도착한다는 신념을 가진 개발자입니다. 제게 있어서 개발은 단순히 코드를 작성하는 것 이상으로, 지속적인 성장과 함께 도전과 발전의 여정입니다.**
+**안녕하세요, 저는 진유록입니다. 느리더라도 한 걸음씩 나아가다보면 도착한다는 신념을 가진 백엔드 개발자 지망생 입니다. 제게 있어서 개발은 단순히 코드를 작성하는 것 이상으로, 지속적인 성장과 함께 도전과 발전의 여정이라고 생각합니다.**
 
 **제가 개발자로서 성장하기 위해 실천하고 있는 것은 다음과 같습니다.**
 
