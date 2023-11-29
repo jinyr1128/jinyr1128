@@ -39,7 +39,7 @@
 
 - SNS :   <a href ="https://www.instagram.com/yulgiii_1128_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 
-- Hobby : 🎧 ☕️ 🐈 my Cat's~😻 <a href ="https://www.instagram.com/diary_4_cat_butler/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA%3D%3D">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+- Hobby : 🎧 ☕️ 🐈 my Cat's~😻 <a href ="https://instagram.com/zip4.4cats?igshid=MTNiYzNiMzkwZA%3D%3D&utm_source=qr">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 
 ---
 ## 🖊️Project 
