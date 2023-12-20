@@ -49,8 +49,8 @@
 - <a href="https://github.com/jinyr1128/kioskPJ">키오스크 프로젝트</a>
 - <a href="https://github.com/jinyr1128/CCProject">환율계산기 프로젝트</a> 
 - <a href="https://github.com/jinyr1128/HRSProject">호텔예약 관리 프로그램 프로젝트</a>
-- <a href="https://github.com/jinyr1128/AMBProject">익명 게시판 웹 개발 프로젝트(스프링입문)</a>
-- <a href="https://github.com/jinyr1128/TodoBlog">Todo Page 프로젝트(스프링숙련)</a>
+- <a href="https://github.com/jinyr1128/AMBProject">익명 게시판 웹 개발 프로젝트</a>
+- <a href="https://github.com/jinyr1128/TodoBlog">Todo Page 프로젝트</a>
 ---
  ## 💻 What I Use
 
