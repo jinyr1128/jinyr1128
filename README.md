@@ -45,7 +45,7 @@
 ## 🖊️Project 
 자세한 프로젝트 설명은 각 프로젝트 클릭(링크로 연결) 후 README 참고해주세요!
 
-- <a href="https://clproject.netlify.app">자기소개 웹페이지 만들기(미니프로젝트)</a><a href="https://github.com/jinyr1128/CLProject">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+- <a href="https://clproject.netlify.app">자기소개 웹페이지 만들기(미니프로젝트)</a><a href="https://github.com/jinyr1128/CLProject">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a><a href="https://clproject.netlify.app"> ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</a>
 - <a href="https://github.com/jinyr1128/kioskPJ">키오스크 프로젝트</a>
 - <a href="https://github.com/jinyr1128/CCProject">환율계산기 프로젝트</a> 
 - <a href="https://github.com/jinyr1128/HRSProject">호텔예약 관리 프로그램 프로젝트</a>
@@ -71,6 +71,8 @@
 ### < DB >
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ### < IDEs&Tool >
 
@@ -78,6 +80,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 
 
@@ -93,13 +97,17 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ---
 ### 📖 How To Study
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9D%BC%EC%BA%A0%ED%94%84-BE3939?style=flat-square&logo=thespritersresource)
 ![Static Badge](https://img.shields.io/badge/Inflearn-199900?style=flat-square&logo=leaflet)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+
 
 
 
