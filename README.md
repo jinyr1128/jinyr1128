@@ -46,7 +46,7 @@
 ## 🖊️Project 
 자세한 프로젝트 설명은 각 프로젝트 클릭(링크로 연결) 후 README 참고해주세요!
 
-- <a href="https://clproject.netlify.app">자기소개 웹페이지 만들기(미니프로젝트)</a><a href="https://github.com/jinyr1128/CLProject">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a><a href="https://clproject.netlify.app"> ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</a>
+- <a href="https://clproject.netlify.app">자기소개 웹페이지 만들기(미니프로젝트)</a><a href="https://github.com/jinyr1128/CLProject">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a><a href="https://clproject.netlify.app">![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</a>
 - <a href="https://github.com/jinyr1128/kioskPJ">키오스크 프로젝트</a>
 - <a href="https://github.com/jinyr1128/CCProject">환율계산기 프로젝트</a> 
 - <a href="https://github.com/jinyr1128/HRSProject">호텔예약 관리 프로그램 프로젝트</a>
