@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=Auto&height=250&section=header&text=Yull's%20Record&fontSize=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Yull's%20Record&fontSize=100&animation=fadeIn)
 
 
 ## Today's visitor
