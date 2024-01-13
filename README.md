@@ -55,6 +55,7 @@
 - <a href="https://github.com/jinyr1128/TMProjcet">Today Menu 웹 프로젝트</a>
 - <a href="https://github.com/jinyr1128/TodoBlog">Todo Page 프로젝트</a>
 - <a href="https://github.com/jinyr1128/DDProject">Devlop Diary 프로젝트</a>
+- <a href="https://github.com/orgs/SportsEcho/repositories">SportsEcho 프로젝트</a>
 ---
  ## 💻 What I Use
 
@@ -66,11 +67,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-### < Framework >
+### < Framework & Library >
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### < DB >
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -91,6 +92,7 @@
 
 ### < Etc. >
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
