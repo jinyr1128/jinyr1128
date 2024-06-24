@@ -141,5 +141,10 @@
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jinyr1128)](https://velog.io/@jinyr1128)<br>
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jinyr1128)](https://velog.io/@jinyr1128/series/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%9D%98-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B0)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinyr1128)](https://solved.ac/jinyr1128/)
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{jinyr1128}?pet-id=1" width="1000" height="120"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{jinyr1128}"/>
+</a>
 
