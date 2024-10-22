@@ -29,7 +29,7 @@
 
 ---
 
-## Core Competency 
+## Core Competency !
 
 ### ✅ 리더쉽!: 많은 백엔드 프로젝트에서의 리더 경험을 통해, 남다른 기술 리더십 능력을 입증! Java, Spring, React를 다루며, 기술적 도전을 성공으로 이끕니다!
 
