@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Yull's%20Record&fontSize=100&animation=fadeIn)
 
 
-## Today's visitor
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinyr1128&count_bg=%23FFFB00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false) </center>
----
+#
 ## 🌠 Introduction
 **안녕하세요, 꾸준한 개발자 진유록 입니다. 느리더라도 한 걸음씩 나아가다보면 도착한다는 신념을 가진 백엔드 개발자 & PM 입니다. 제게 있어서 개발은 단순히 코드를 작성하는 것 이상으로, 지속적인 성장과 함께 도전과 발전의 여정이라고 생각합니다.**
 
