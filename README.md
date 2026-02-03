@@ -126,7 +126,7 @@
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyr1128&theme=dark&show_icons=true)](https://github.com/jinyr1128/github-readme-stats)
+[![Yullgii's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyr1128&theme=dark&show_icons=true)](https://github.com/jinyr1128/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyr1128&layout=compact)](https://github.com/jinyr1128/github-readme-stats)
 ---
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jinyr1128)](https://velog.io/@jinyr1128)<br>
