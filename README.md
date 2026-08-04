@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Yull's%20Record&fontSize=100&animation=fadeIn)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFA6&height=230&section=header&text=Yull's%20Record&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Background%20%C3%97%20PM&descAlignY=60&descSize=18)
 
 # 진유록 | Yurok Jin
 
-### 코드를 이해하는 교육 PM, 교육의 맥락을 이해하는 백엔드 개발자
+### 코드를 이해하는 PM, 교육의 맥락을 이해하는 백엔드 개발자
 
-백엔드 개발 경험을 바탕으로 교육 프로그램의 운영 구조와 사용자 경험을 설계합니다.  
-학습 데이터로 문제를 발견하고, 사람과 프로세스를 연결해 다음 운영 기준으로 남깁니다.
+백엔드 개발 경험을 살려 교육 프로그램의 운영 구조와 사용자 경험을 설계합니다.  
+학습 데이터로 문제를 발견하고 사람과 프로세스를 연결해 다음 운영 기준으로 남깁니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-jinyr1128-181717?style=flat-square&logo=github)](https://github.com/jinyr1128)
 [![Velog](https://img.shields.io/badge/Velog-jinyr1128-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@jinyr1128)
@@ -17,13 +19,13 @@
 
 ## About me
 
-안녕하세요. 교육사업 PM이자 백엔드 개발 경험을 가진 진유록입니다.
+안녕하세요. 백엔드 개발 경험이 있는 PM 진유록입니다.
 
-Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 운영에 적용하고 있습니다. 수강생·강사·멘토·운영팀·기업 담당자의 요구를 정리하고, 과정의 목표와 일정, 역할, 지표, 대응 기준을 하나의 운영 체계로 연결합니다.
+Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 운영에 적용하고 있습니다. 수강생·강사·멘토·운영팀·기업 담당자의 요구를 정리하고 과정의 목표와 일정, 역할, 지표, 대응 기준을 하나의 운영 체계로 연결합니다.
 
-운영 중 발생한 문제를 개인의 경험에만 맡기지 않습니다. 출결·과제·상담·만족도 데이터를 확인하고, 반복되는 이슈는 체크리스트와 문서, 협업 규칙, 제품 요구사항으로 구체화합니다. 교육 현장을 이해하는 PM이면서 개발팀과 기능 요구사항을 논의할 수 있는 사람으로 계속 성장하고 있습니다.
+운영 중 발생한 문제를 개인의 경험에만 맡기지 않습니다. 출결·과제·상담·만족도 데이터를 확인하고 반복되는 이슈는 체크리스트와 문서, 협업 규칙, 제품 요구사항으로 구체화합니다. 교육 현장을 이해하는 PM이면서 개발팀과 기능 요구사항을 논의할 수 있는 사람으로 계속 성장하고 있습니다.
 
-> 느리더라도 매일 한 걸음씩. 배우고, 기록하고, 더 나은 방식으로 바꿉니다.
+> 느리더라도 매일 한 걸음씩. 배우고 기록하고 더 나은 방식으로 바꿉니다.
 
 ---
 
@@ -31,12 +33,12 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 �
 
 | 영역 | 제가 하는 일 |
 |---|---|
-| 교육 프로그램 PM | 과정 기획부터 개강, 운영, 수료, 회고까지 전체 일정을 관리하고 기수별 운영 기준을 설계합니다. |
-| 데이터 기반 개선 | 출결·과제·상담·만족도·이탈 사유를 주 단위로 확인하고, 위험 신호를 상담과 후속 조치로 연결합니다. |
+| 프로그램 PM | 과정 기획부터 개강, 운영, 수료, 회고까지 전체 일정을 관리하고 기수별 운영 기준을 설계합니다. |
+| 데이터 기반 개선 | 출결·과제·상담·만족도·이탈 사유를 주 단위로 확인하고 위험 신호를 상담과 후속 조치로 연결합니다. |
 | 팀·인력 운영 | 팀원의 업무량과 일정을 조율하고 강사·멘토·학습매니저의 역할, 문의 채널, 이슈 이관 기준을 정리합니다. |
 | KDT 행정 | HRD-Net 과정 운영, 시간표·교강사 변경, 증빙 검토 등 정부지원훈련에 필요한 행정 업무를 관리합니다. |
 | 기업협약 프로젝트 | 기업 요구를 단계별 미션과 산출물, 피드백 일정으로 구체화하고 교육생·멘토·기업 담당자의 협업을 조율합니다. |
-| 학습환경·제품 개선 | 비대면 협업 환경과 실습 장비 운영 기준을 만들고, 반복 업무를 줄이기 위한 LMS 기능과 PRD를 기획합니다. |
+| 학습환경·제품 개선 | 비대면 협업 환경과 실습 장비 운영 기준을 만들고 반복 업무를 줄이기 위한 LMS 기능과 PRD를 기획합니다. |
 | 백엔드 개발 | Java·Spring Boot 기반으로 인증·인가, CRUD, REST API, 데이터베이스 연동 기능을 구현해 왔습니다. |
 
 ---
@@ -49,11 +51,11 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 �
 
 ### 2. 여러 이해관계자가 함께 움직이는 구조 설계
 
-수강생, 강사, 멘토, 운영팀, 기업 담당자는 같은 문제를 서로 다른 관점에서 봅니다. 각자의 요구를 역할·기한·산출물·판단 기준으로 바꾸고, 일정 변경이나 고위험 이슈가 생기면 영향 범위와 우선순위를 다시 조정합니다.
+수강생, 강사, 멘토, 운영팀, 기업 담당자는 같은 문제를 서로 다른 관점에서 봅니다. 각자의 요구를 역할·기한·산출물·판단 기준으로 바꾸고 일정 변경이나 고위험 이슈가 생기면 영향 범위와 우선순위를 다시 조정합니다.
 
 ### 3. 개발과 운영을 연결하는 문제 해결
 
-개발 경험을 바탕으로 현장의 불편을 기능 요구사항으로 구체화합니다. 사용자, 상황, 필요한 기능, 완료 기준을 정리해 개발팀과 논의하고, 수기로 반복되는 업무는 데이터 수집 방식과 대시보드, 알림 기능으로 개선합니다.
+개발 경험을 살려 현장의 불편을 기능 요구사항으로 구체화합니다. 사용자, 상황, 필요한 기능, 완료 기준을 정리해 개발팀과 논의하고 수기로 반복되는 업무는 데이터 수집 방식과 대시보드, 알림 기능으로 개선합니다.
 
 ### 4. 팀이 같은 기준으로 판단하도록 만드는 리더십
 
@@ -74,7 +76,7 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 �
 
 ## Career journey
 
-### 주식회사 디벨로켓에듀 | 스마트훈련팀 매니저 · 교육 프로그램 PM
+### 주식회사 디벨로켓에듀 | 스마트훈련팀 매니저 · PM
 `2025.02 ~ Present`
 
 - AI 게임기획·XR 게임개발 KDT 비대면 실시간훈련 운영
@@ -83,7 +85,7 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 �
 - HRD-Net 행정, 실습 장비, LMS 개선 요구사항 관리
 - 팀 일정·업무량·운영 우선순위 조율
 
-### 팀스파르타 | 내일배움캠프 담임매니저 · 교육 운영 PM
+### 팀스파르타 | 내일배움캠프 담임매니저 · PM
 `2024.04 ~ 2024.08 / 2024.09 ~ 2025.02`
 
 - Unity·iOS KDT 트랙의 학습 진도, 출결, 과제, 상담, 만족도 관리
@@ -147,7 +149,7 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 �
 
 ## Learning log
 
-꾸준히 알고리즘을 풀고, 개발과 교육 운영에서 배운 내용을 기록합니다.
+꾸준히 알고리즘을 풀고 개발과 교육 운영에서 배운 내용을 기록합니다.
 
 [![Baekjoon](https://img.shields.io/badge/Baekjoon-Coding__test-0076C0?style=flat-square)](https://github.com/jinyr1128/Coding_test)
 [![LeetCode](https://img.shields.io/badge/LeetCode-LeetCode__test-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://github.com/jinyr1128/LeetCode_test)
@@ -157,9 +159,31 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 �
 
 ## GitHub records
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jinyr1128)](https://velog.io/@jinyr1128)<br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jinyr1128)](https://velog.io/@jinyr1128/series/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%9D%98-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B0)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinyr1128)](https://solved.ac/jinyr1128/)
+<div align="center">
+
+[![Yull's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyr1128&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/jinyr1128)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyr1128&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jinyr1128?tab=repositories)
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jinyr1128)](https://solved.ac/jinyr1128/)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jinyr1128?pet-id=632554957187937292" width="600" height="120" alt="gitanimals" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 좋은 교육 경험과 더 나은 제품은 결국 사람을 이해하는 데서 시작한다고 믿습니다.
+
+**Learn · Record · Improve · Share**
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,100:6A5ACD&height=130&section=footer)
+
 
 <a href="https://github.com/devxb/gitanimals">
 <img
