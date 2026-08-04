@@ -157,35 +157,6 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 �
 
 ## GitHub records
 
-<div align="center">
-
-[![Yull's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyr1128&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/jinyr1128)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyr1128&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jinyr1128?tab=repositories)
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jinyr1128)](https://solved.ac/jinyr1128/)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jinyr1128?pet-id=632554957187937292" width="600" height="120" alt="gitanimals" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 좋은 교육 경험과 더 나은 제품은 결국 사람을 이해하는 데서 시작한다고 믿습니다.
-
-
-
----
-
-[![Yullgii's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyr1128&theme=dark&show_icons=true)](https://github.com/jinyr1128/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyr1128&layout=compact)](https://github.com/jinyr1128/github-readme-stats)
-
----
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jinyr1128)](https://velog.io/@jinyr1128)<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jinyr1128)](https://velog.io/@jinyr1128/series/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%9D%98-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B0)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinyr1128)](https://solved.ac/jinyr1128/)
