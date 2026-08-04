@@ -160,7 +160,8 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 운영에
 
 <div align="center">
 
-[![Yull's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyr1128&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/jinyr1128)
+[![Yull'sGitHub stats](https://github-readme-stats.vercel.app/api?username=jinyr1128)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyr1128&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jinyr1128?tab=repositories)
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jinyr1128)](https://solved.ac/jinyr1128/)
@@ -182,18 +183,5 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 운영에
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,100:6A5ACD&height=130&section=footer)
-
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-src="https://render.gitanimals.org/lines/jinyr1128?pet-id=632554957187937292"
-width="600"
-height="120"
-/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-<img src="https://render.gitanimals.org/farms/{jinyr1128}"/>
-</a>
 
   
