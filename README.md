@@ -176,25 +176,16 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 교육 �
 
 ### 좋은 교육 경험과 더 나은 제품은 결국 사람을 이해하는 데서 시작한다고 믿습니다.
 
-**Learn · Record · Improve · Share**
-
-### 📖 How To Study
-
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Static Badge](https://img.shields.io/badge/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9D%BC%EC%BA%A0%ED%94%84-BE3939?style=flat-square&logo=thespritersresource)
-![Static Badge](https://img.shields.io/badge/Inflearn-199900?style=flat-square&logo=leaflet)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
-
-
 
 
 ---
-
 
 [![Yullgii's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyr1128&theme=dark&show_icons=true)](https://github.com/jinyr1128/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyr1128&layout=compact)](https://github.com/jinyr1128/github-readme-stats)
+
 ---
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jinyr1128)](https://velog.io/@jinyr1128)<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jinyr1128)](https://velog.io/@jinyr1128/series/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%9D%98-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B0)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinyr1128)](https://solved.ac/jinyr1128/)
