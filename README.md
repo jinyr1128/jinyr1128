@@ -159,11 +159,10 @@ Java와 Spring으로 서비스를 만들며 익힌 구조적 사고를 운영에
 ## GitHub records
 
 <div align="center">
+  
 [![Yull's GitHub stats](https://github-readme-stats.vercel.app/api?username=yullgii)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyr1128&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jinyr1128?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yullgii&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jinyr1128?tab=repositories)
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jinyr1128)](https://solved.ac/jinyr1128/)
 
